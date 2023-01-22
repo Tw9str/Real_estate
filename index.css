@@ -321,7 +321,7 @@ section .featured .houses .house-box .box-address p {
   border-bottom: 1px solid rgb(215, 215, 215);
   padding-bottom: 5px;
   font-size: 14px;
-  height: 30px;
+  height: 32px;
   overflow-y: auto;
 }
 section .featured .houses .house-box .box-price {
