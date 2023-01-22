@@ -56,8 +56,8 @@ fetch(PROJECT_URL)
         <div class="room">${house.bathroom}</div>
         <i class="fa-solid fa-bath"></i>`;
         detailsDiv.innerHTML = `
-        <a href="https://wa.me/+905348738412"><img src="images/whatsapp.svg" alt="Whatsapp target="_blank""> <bdi>+90 5348738412<bdi></a>
-        <a href="https://wa.me/+905550988840"><img src="images/whatsapp.svg" alt="Whatsapp" target="_blank"> <bdi>+90 5550988840<bdi></a>`;
+        <a href="https://wa.me/+905348738412" target="_blank"><img src="images/whatsapp.svg" alt="Whatsapp> <bdi>+90 5348738412<bdi></a>
+        <a href="https://wa.me/+905550988840" target="_blank><img src="images/whatsapp.svg" alt="Whatsapp""> <bdi>+90 5550988840<bdi></a>`;
         left.innerHTML = `<i class="fa-solid fa-caret-left"></i>`;
         right.innerHTML = `<i class="fa-solid fa-caret-right"></i>`;
 
