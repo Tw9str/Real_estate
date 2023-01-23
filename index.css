@@ -612,9 +612,6 @@ footer .container h4 {
   .header .main-header .container {
     justify-content: center;
   }
-  .container {
-    padding: 0;
-  }
   .header .top-header ul {
     justify-content: center;
   }
@@ -647,42 +644,7 @@ footer .container h4 {
     padding: 0 20px;
   }
 }
-@media(max-width: 1432px) {
-  section .featured .container {
-    padding-left: 100px;
-  }
-}
-@media(max-width: 1356px) {
-  section .featured .container {
-    padding-left: 0;
-  }
-  section .featured .head {
-    justify-content: space-between;
-  }
-  section .featured .houses {
-    padding-left: 80px;
-  }
-}
-@media(max-width: 1240px) {
-  section .featured .houses {
-    padding-left: 0;
-  }
-}
-@media(max-width: 1236px) {
-  section .featured .houses {
-    padding-left: 40px;
-  }
-}
-@media(max-width: 1155px) {
-  section .featured .houses {
-    padding-left: 0;
-  }
-}
-@media(max-width: 1191px) {
-  section .featured .houses {
-    justify-content: center;
-  }
-}
+
 @media(max-width: 768px) {
   section .main-section .container .main-section-ads span {
     display: block;
