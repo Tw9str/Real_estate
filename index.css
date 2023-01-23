@@ -659,9 +659,6 @@ footer .container h4 {
   .header .main-header .container {
     padding: 10px 0;
   }
-  .container {
-    padding: 0;
-  }
   section .main-section .container .main-section-ads {
     width: 400px;
   }
@@ -701,7 +698,6 @@ footer .container h4 {
   }
   section .featured .houses{
     justify-content: center;
-    padding-left: 0;
   }
   section .featured .bottom-section {
     display: block;
